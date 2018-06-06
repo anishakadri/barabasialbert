@@ -1,2 +1,2 @@
 # barabasialbert
-Degree Distribution in Barabasi Albert Networks
+Degree Distributions in Barabasi Albert Networks
